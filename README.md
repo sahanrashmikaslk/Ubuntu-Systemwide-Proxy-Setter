@@ -17,4 +17,4 @@ Working: apt,terminal,software center, wget , and all ubuntu apps
 Note: Browsers use ubuntu settings proxy. To use proxy in browsers like chrome/firefox , also set the proxy in your ubuntu settings.
 
 - *Modified by* **Sahan Lelwala**
-- Updated the code can use with our faculty (FOE,UOR,SL)
+- Updated the code can use with our faculty
