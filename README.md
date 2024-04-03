@@ -1,4 +1,4 @@
-# Ubuntu-Systemwide-Proxy-Setter
+# Ubuntu-Systemwide-Proxy-Setter-for-FOE-UOR
 I worte down this python script to set systemwide proxy in Ubuntu with pre-authentication. Internet data will be tunneled through the proxy.
 
 Usage:
